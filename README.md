@@ -1,4 +1,4 @@
-# Comparative analysis of two index
+# Comparative Analysis of Two Stock Indices
 
 ## Introduction
 The objective of this analysis is to compare the performance of two stock indices in the context of daily returns and trading volumes. Through a detailed analysis of historical data, we aim to highlight key differences and similarities between these two indices using statistical tools and graphical visualizations.
